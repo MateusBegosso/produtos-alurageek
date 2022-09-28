@@ -1,0 +1,146 @@
+[
+    {
+        "imagem": "./images/sw1.png",
+        "alt": "Caneca do star wars",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "star-wars"
+    },
+    {
+        "imagem": "./images/sw2.png",
+        "alt": "Lego do star wars",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "star-wars"
+    },
+    {
+        "imagem": "./images/sw3.png",
+        "alt": "Action figure do mestre Yoda",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "star-wars"
+    },
+    {
+        "imagem": "./images/sw4.png",
+        "alt": "Action figure do stormtrooper",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "star-wars"
+    },
+    {
+        "imagem": "./images/sw5.png",
+        "alt": "Action figure do baby Yoda",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "star-wars"
+    },
+    {
+        "imagem": "./images/sw6.png",
+        "alt": "Action figure do Kylo Ren",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "star-wars"
+    },
+    {
+        "imagem": "./images/co1.png",
+        "alt": "Controle do xbox",
+        "produto": "Controle XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "console"
+    },
+    {
+        "imagem": "./images/co2.png",
+        "alt": "Controle e console PS5",
+        "produto": "Controle e console XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "console"
+    },
+    {
+        "imagem": "./images/co3.png",
+        "alt": "Console Nintendo",
+        "produto": "Console XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "console"
+    },
+    {
+        "imagem": "./images/co4.png",
+        "alt": "Controle do Nintendo switch",
+        "produto": "Controle XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "console"
+    },
+    {
+        "imagem": "./images/co5.png",
+        "alt": "Console xbox",
+        "produto": "Console XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "console"
+    },
+    {
+        "imagem": "./images/co6.png",
+        "alt": "Console game boy",
+        "produto": "Game Boy Color",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "console"
+    },
+    {
+        "imagem": "./images/dv1.png",
+        "alt": "Camisa atari",
+        "produto": "Camisa Atari",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "diversos"
+    },
+    {
+        "imagem": "./images/dv2.png",
+        "alt": "Camisa SNES",
+        "produto": "Camisa SNES",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "diversos"
+    },
+    {
+        "imagem": "./images/dv3.png",
+        "alt": "Action figure do Sonic",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "diversos"
+    },
+    {
+        "imagem": "./images/dv4.png",
+        "alt": "Despertador retro",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "diversos"
+    },
+    {
+        "imagem": "./images/dv5.png",
+        "alt": "Óculos de realidade virtual",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "diversos"
+    },
+    {
+        "imagem": "./images/dv6.png",
+        "alt": "Fantasia do Pikachu",
+        "produto": "Produto XYZ",
+        "preco": "60,00",
+        "pagina": "#",
+        "categoria": "diversos"
+    }
+]
